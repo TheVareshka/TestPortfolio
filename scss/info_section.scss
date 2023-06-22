@@ -1,0 +1,53 @@
+.info {
+    &__wrapper {
+        background: #FFFFFF;
+        border-radius: 48px;  
+        color: #000;
+    }
+    &__content {
+        padding-top: 77px;
+        padding-left: 60px;
+        padding-right: 50px;
+    }
+    &__title {
+        font-family: 'HandelGothic TL';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 45px;
+        text-transform: uppercase;
+        color: #000000;
+    }
+    &__text {
+        font-family: 'Helvetica';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 28px;
+        color: #0E0E0E;
+        margin-top: 20px;
+    }
+    &__title-specific {
+        font-family: 'HandelGothic TL';
+        font-style: normal;
+        font-weight: 400;
+        font-size: 45px;
+        line-height: 98.49%;
+        text-transform: uppercase;
+        color: #FFBF40;
+    }
+    &__swiper-inner {
+        display: flex;
+        align-items: center;
+        max-width: 1200px;
+        width: 100%;
+        height: auto;
+        margin-top: 25px;
+        position: relative;
+    }
+    &__slider-content {
+        padding: 66px 0px 120px 66px;
+    }
+    
+
+}
+
